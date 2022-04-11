@@ -8,3 +8,9 @@ Group Name : เด็กหลง
 ชลธิชา ศาลางาม รหัสนักศึกษ 623020518-7
 
 นริศรา ชัยฤทธิ์ รหัสนักศึกษา 623021001-9
+
+
+
+#Final
+
+Dashboard : https://datastudio.google.com/s/lDGJ_rKQV_I

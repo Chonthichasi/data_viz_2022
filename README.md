@@ -12,6 +12,14 @@ Group Name : เด็กหลง
 
 
 # Final
+สมาชิก
+
+นางสาว ณัฐธิดา เมยดง 623020435-1 STAT
+
+นางสาว ชลธิชา ศาลางาม 623020518-7 SI
+
+นางสาว นัจนันท์ ศรีสิน 623021002-7 STAT
+
 Github : https://github.com/Chonthichasi/data_viz_2022/blob/main/Final_Exam.ipynb
 
 Dashboard : https://datastudio.google.com/s/lDGJ_rKQV_I

@@ -12,5 +12,5 @@ Group Name : เด็กหลง
 
 
 #Final
-
+Github : https://github.com/Chonthichasi/data_viz_2022/blob/main/Final_Exam.ipynb
 Dashboard : https://datastudio.google.com/s/lDGJ_rKQV_I
